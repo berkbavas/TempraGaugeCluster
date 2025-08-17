@@ -8,7 +8,7 @@ Written in `QML Qt 5.15.2` and `C++`.
 2. Open ``TempraGaugeCluster.pro`` with ``QtCreator``.
 3. Build & run.
 
-## Video
+## Demo
 
 <https://github.com/user-attachments/assets/f2b0eaf7-bb00-42d1-93b4-17a65b3880f4>
 
